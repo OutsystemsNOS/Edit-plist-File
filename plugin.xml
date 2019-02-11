@@ -33,6 +33,7 @@
         <!-- iOS9 whitelisting -->
         <config-file target="*-Info.plist" parent="LSApplicationQueriesSchemes">
             <array>
+                <string>pt.nos.osnospatterns.dev</string>
                 <string>twitter</string>
                 <string>fb</string>
                 <string>whatsapp</string>
